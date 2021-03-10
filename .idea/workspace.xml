@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1592261-c693-4d24-a256-0e39a2be94a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/xq/check_install_plugin/CheckInstallPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/xq/check_install_plugin/CheckInstallPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_install_plugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/check_install_plugin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/check_install_plugin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/check_install_plugin.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[9759361e]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="337" />
+    <option name="y" value="148" />
+    <option name="width" value="1496" />
+    <option name="height" value="1229" />
+  </component>
+  <component name="ProjectId" id="1pXologef0agyoU7USUEnHj0J4P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1592261-c693-4d24-a256-0e39a2be94a9" name="Default Changelist" comment="" />
+      <created>1613717073890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613717073890</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1167" y="333" key="CommitChangelistDialog2" timestamp="1615341697693">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1167" y="333" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1615341697693" />
+    <state width="1782" height="405" key="GridCell.Tab.0.bottom" timestamp="1615341182970">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1782" height="405" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1615341182970" />
+    <state width="1782" height="405" key="GridCell.Tab.0.center" timestamp="1615341182969">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1782" height="405" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1615341182969" />
+    <state width="1782" height="405" key="GridCell.Tab.0.left" timestamp="1615341182969">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1782" height="405" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1615341182969" />
+    <state width="1782" height="405" key="GridCell.Tab.0.right" timestamp="1615341182970">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1782" height="405" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1615341182970" />
+    <state x="1282" y="470" key="RollbackChangesDialog" timestamp="1615341469588">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1282" y="470" key="RollbackChangesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1615341469588" />
+    <state x="1297" y="424" width="672" height="678" key="search.everywhere.popup" timestamp="1615343832670">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1297" y="424" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1615343832670" />
+  </component>
+</project>

@@ -14,43 +14,38 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String _platformVersion = 'Unknown';
+  bool _isInstall;
+
+  //待检测应用的包名
+  String _packageName = 'com.tencent.mm';
 
   @override
   void initState() {
     super.initState();
-    initPlatformState();
+    checkApplicationInstall();
   }
 
-  // Platform messages are asynchronous, so we initialize in an async method.
-  Future<void> initPlatformState() async {
-    String platformVersion;
-    // Platform messages may fail, so we use a try/catch PlatformException.
+  Future<void> checkApplicationInstall() async {
+    bool isInstall;
     try {
-      platformVersion = await CheckInstallPlugin.platformVersion;
-    } on PlatformException {
-      platformVersion = 'Failed to get platform version.';
+      isInstall = await CheckInstallPlugin.checkPackage(_packageName);
+    } catch (e) {
+      isInstall = true;
     }
-
-    // If the widget was removed from the tree while the asynchronous platform
-    // message was in flight, we want to discard the reply rather than calling
-    // setState to update our non-existent appearance.
-    if (!mounted) return;
-
-    setState(() {
-      _platformVersion = platformVersion;
-    });
+    if (mounted) {
+      setState(() {
+        _isInstall = isInstall;
+      });
+    }
   }
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Plugin example app'),
-        ),
+        appBar: AppBar(title: Text('Plugin example app')),
         body: Center(
-          child: Text('Running on: $_platformVersion\n'),
+          child: Text('$_packageName is install: $_isInstall'),
         ),
       ),
     );
